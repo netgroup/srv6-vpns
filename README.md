@@ -6,6 +6,6 @@ VPNs with SRv6
 
 https://github.com/netgroup/srv6-vpns/tree/master/ipv4-dx4-single-subnet#ipv4-vpn-using-dx4---single-subnet-for-all-remote-hosts
 
-[[ Link text | ipv4-dx4-single-subnet#ipv4-vpn-using-dx4---single-subnet-for-all-remote-hosts ]]
+[Link text](ipv4-dx4-single-subnet#ipv4-vpn-using-dx4---single-subnet-for-all-remote-hosts)
 
-[[ Link text | ipv4-dx4-single-subnet ]]
+[Link text](ipv4-dx4-single-subnet)
