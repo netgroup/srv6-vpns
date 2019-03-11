@@ -1,4 +1,4 @@
-# IPv4 VPN using DT4 emulation using DX4 - single subnet for all remote hosts
+# IPv4 VPN using emulated DT4 through DX4 - single subnet for all remote hosts
 
 
 Example scenario 3
